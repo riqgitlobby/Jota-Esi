@@ -1,1 +1,1 @@
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+console.log("Eu sou Fôda")
